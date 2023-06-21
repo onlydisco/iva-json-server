@@ -1,0 +1,22 @@
+{
+  "name": "iva-json-server",
+  "version": "1.0.0",
+  "description": "fake json-server for iva-catalog frontend",
+  "main": "api/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onlydisco/iva-json-server.git"
+  },
+  "author": "Sergey Mukhin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onlydisco/iva-json-server/issues"
+  },
+  "homepage": "https://github.com/onlydisco/iva-json-server#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
